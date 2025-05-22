@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import geopandas as gpd
 
 
 def load_data_with_delimiters(file_info):
@@ -26,3 +27,5 @@ def show_heads(dfs, n=5):
     for i, df in enumerate(dfs, start=1):
         print(f"\n--- Head of DataFrame {i} ---")
         print(df.head(n))
+
+
