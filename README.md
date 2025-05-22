@@ -1,1 +1,1 @@
-# Predict Bike Accident Hotspots by Time, Location, and Condi
+# Predict Bike Accident Hotspots by Time, Location, and Conditions
